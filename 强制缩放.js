@@ -15,7 +15,7 @@
 		/* 开始执行代码 */
 		const meta = document.createElement('meta');
 		meta.setAttribute('name', 'viewport');
-		meta.setAttribute('content', 'width=device-width, initial-scale=0, user-scalable=yes');
+		meta.setAttribute('content', 'width=device-width, initial-scale=0.5, user-scalable=yes');
 		document.head.appendChild(meta);
 	};
 })();
